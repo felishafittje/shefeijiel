@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zicaigaej.ralindustries.com/sitemap.xml
